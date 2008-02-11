@@ -8,9 +8,9 @@
 @del NMozLib\*.user
 @rmdir NMozLib\Objects\Release\ /S /Q
 @rmdir NMozLib\Objects\Debug\ /S /Q
-@del Navi\Lib\*.lib
-@del Navi\Lib\*.dll
-@del Navi\Lib\*.ilk
-@del Navi\Lib\*.exp
-@del Navi\Lib\*.pdb
+@del NMozLib\Lib\*.lib
+@del NMozLib\Lib\*.dll
+@del NMozLib\Lib\*.ilk
+@del NMozLib\Lib\*.exp
+@del NMozLib\Lib\*.pdb
 @echo ============== Done! ===============
