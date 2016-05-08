@@ -1,0 +1,1 @@
+Navi Mozilla Library, a wrapper for Mozilla Gecko for use in NaviLibrary.
